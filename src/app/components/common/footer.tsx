@@ -27,8 +27,8 @@ export default function Footer() {
           <a href="#" className="underline hover:text-gray-200">Shop Products</a>
           <div className="flex space-x-4 mt-5">
             <a href="#" className="hover:text-gray-300"><Facebook size={20} /></a>
-            <a href="#" className="hover:text-gray-300"><Instagram size={20} /></a>
-            <a href="#" className="hover:text-gray-300"><Youtube size={20} /></a>
+            <a href="https://www.instagram.com/sugarbond_pickles?igsh=eDBzNWFiaHBlbTB1" className="hover:text-gray-300"><Instagram size={20} /></a>
+            <a href="https://www.youtube.com/@sugarbond" className="hover:text-gray-300"><Youtube size={20} /></a>
           </div>
         </div>
 
